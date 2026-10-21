@@ -1,0 +1,16 @@
+{
+  "name": "Barcode Collector",
+  "short_name": "Scanner",
+  "description": "Scan barcodes with the back camera and copy the list.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1a3a",
+  "theme_color": "#0c1a3a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
